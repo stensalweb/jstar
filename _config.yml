@@ -28,9 +28,20 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
+
+# Just the docs configuration
+search_enabled: true
+color_scheme: blue
+aux_links:
+  "J* on GitHub":
+    - "//github.com/bamless/jstar"
+aux_links_new_tab: true
+ga_tracking: UA-2709176-10
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
