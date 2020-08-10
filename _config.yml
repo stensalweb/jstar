@@ -24,8 +24,7 @@ description: >-
   A Lightweight Embeddable Scripting Language
 baseurl: "/jstar"                # the subpath of your site, e.g. /blog
 url: "https://bamless.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  bamless
 
 # Build settings
 #theme: just-the-docs
