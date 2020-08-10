@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 # Just the docs configuration
-logo: "/assets/images/jstar256.png"
+logo: "assets/images/jstar256.png"
 color_scheme: blue
 search_enabled: true
 aux_links:
