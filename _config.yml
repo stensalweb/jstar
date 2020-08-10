@@ -28,14 +28,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
-#theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
 # Just the docs configuration
-search_enabled: true
+logo: "/assets/images/jstar256.png"
 color_scheme: blue
+search_enabled: true
 aux_links:
   "J* on GitHub":
     - "//github.com/bamless/jstar"
