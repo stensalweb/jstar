@@ -22,8 +22,8 @@ title: J*
 email: mail@fabrizio-pietrucci.it
 description: >-
   A Lightweight Embeddable Scripting Language
-baseurl: "/jstar"                # the subpath of your site, e.g. /blog
-url: "https://bamless.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jstar"                          # the subpath of your site, e.g. /blog
+url: "https://jstar-lang.github.io/" # the base hostname & protocol for your site
 github_username:  bamless
 
 # Build settings
@@ -38,9 +38,9 @@ color_scheme: blue
 search_enabled: true
 aux_links:
   "J* on GitHub":
-    - "//github.com/bamless/jstar"
+    - "//github.com/jstar-lang/jstar"
 aux_links_new_tab: true
-ga_tracking: UA-2709176-10
+ga_tracking: UA-175825972-1
 
 
 # Exclude from processing.
